@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E99A3F76-5712-4186-ADE1-9D4BC8CF065F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Lavest</RootNamespace>
+    <AssemblyName>Lavest</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="consultarfornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarfornecedor.Designer.cs">
+      <DependentUpon>consultarfornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultarfuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarfuncionario.Designer.cs">
+      <DependentUpon>consultarfuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultarproduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarproduto.Designer.cs">
+      <DependentUpon>consultarproduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCadCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCadCliente.Designer.cs">
+      <DependentUpon>FrmCadCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCadFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCadFornecedor.Designer.cs">
+      <DependentUpon>FrmCadFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCadFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCadFuncionario.Designer.cs">
+      <DependentUpon>FrmCadFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClienteInad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClienteInad.Designer.cs">
+      <DependentUpon>frmClienteInad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCompra.Designer.cs">
+      <DependentUpon>FrmCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultarcliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarcliente.Designer.cs">
+      <DependentUpon>consultarcliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmconta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmconta.Designer.cs">
+      <DependentUpon>frmconta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmContasPagarCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmContasPagarCompra.Designer.cs">
+      <DependentUpon>frmContasPagarCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmlogin.Designer.cs">
+      <DependentUpon>Frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProduto.Designer.cs">
+      <DependentUpon>FrmProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProdutoMaisVend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProdutoMaisVend.Designer.cs">
+      <DependentUpon>frmProdutoMaisVend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuitarContaReceber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuitarContaReceber.Designer.cs">
+      <DependentUpon>frmQuitarContaReceber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelAniversariantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelAniversariantes.Designer.cs">
+      <DependentUpon>frmRelAniversariantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelFuncionarioAniver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelFuncionarioAniver.Designer.cs">
+      <DependentUpon>frmRelFuncionarioAniver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelLucrosDespesas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelLucrosDespesas.Designer.cs">
+      <DependentUpon>frmRelLucrosDespesas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelProdutoBaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelProdutoBaixa.Designer.cs">
+      <DependentUpon>frmRelProdutoBaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelProdutoFalta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelProdutoFalta.Designer.cs">
+      <DependentUpon>frmRelProdutoFalta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRelVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRelVendas.Designer.cs">
+      <DependentUpon>frmRelVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmuser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmuser.Designer.cs">
+      <DependentUpon>frmuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVenda.Designer.cs">
+      <DependentUpon>FrmVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lojaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>lojaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VariaveisGlobais.cs" />
+    <EmbeddedResource Include="consultarfornecedor.resx">
+      <DependentUpon>consultarfornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultarfuncionario.resx">
+      <DependentUpon>consultarfuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultarproduto.resx">
+      <DependentUpon>consultarproduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadCliente.resx">
+      <DependentUpon>FrmCadCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadFornecedor.resx">
+      <DependentUpon>FrmCadFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCadFuncionario.resx">
+      <DependentUpon>FrmCadFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClienteInad.resx">
+      <DependentUpon>frmClienteInad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCompra.resx">
+      <DependentUpon>FrmCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultarcliente.resx">
+      <DependentUpon>consultarcliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmconta.resx">
+      <DependentUpon>frmconta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContasPagarCompra.resx">
+      <DependentUpon>frmContasPagarCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmlogin.resx">
+      <DependentUpon>Frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProduto.resx">
+      <DependentUpon>FrmProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProdutoMaisVend.resx">
+      <DependentUpon>frmProdutoMaisVend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuitarContaReceber.resx">
+      <DependentUpon>frmQuitarContaReceber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelAniversariantes.resx">
+      <DependentUpon>frmRelAniversariantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelFuncionarioAniver.resx">
+      <DependentUpon>frmRelFuncionarioAniver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelLucrosDespesas.resx">
+      <DependentUpon>frmRelLucrosDespesas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelProdutoBaixa.resx">
+      <DependentUpon>frmRelProdutoBaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelProdutoFalta.resx">
+      <DependentUpon>frmRelProdutoFalta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRelVendas.resx">
+      <DependentUpon>frmRelVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmuser.resx">
+      <DependentUpon>frmuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVenda.resx">
+      <DependentUpon>FrmVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RelClientesAniversariantes.rdlc" />
+    <EmbeddedResource Include="RelClientesInadimplentes.rdlc" />
+    <EmbeddedResource Include="RelFuncAniversario.rdlc" />
+    <EmbeddedResource Include="RelLucrosDespesas.rdlc" />
+    <EmbeddedResource Include="RelProdBaixa.rdlc" />
+    <EmbeddedResource Include="RelProdutoFalta.rdlc" />
+    <EmbeddedResource Include="RelProdutosMaisVendidos.rdlc" />
+    <EmbeddedResource Include="RelVendas.rdlc" />
+    <None Include="app.config" />
+    <None Include="lojaDataSet.xsc">
+      <DependentUpon>lojaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="lojaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>lojaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="lojaDataSet.xss">
+      <DependentUpon>lojaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\funcionario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consultas-icon-color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gestao-de-estoqu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s0icon-9b108869337b958c857b09b89cffabf4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JasperReports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\145719b77ubudiu0o7ody0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-customer-29180.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icone-Amigo_Homem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder-vectors-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\frete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JPortugall_icon_wardrobe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sinal+.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Recycle_Bin_Full.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6a0120a9370e90970b014e5f81703d970c-800wi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-9-Edit-validated.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crystal_Clear_action_exit.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sinal+1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\solucao-vendas-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ROPAAA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_carritus_twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-contas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_cadastro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icone_cadastro1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-pague-contas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bot_sair.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bot_sair1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search-Folder-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-var-flat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock-illustration-68014971-vector-flat-magnifying-glass-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-copy-14117903638kgn4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-search-flat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-shot-interface-symbol-with-a-magnifier-tool_318-55166.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14359043_523354901190423_6594095113657359987_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sinal-de-mais-em-um-circulo-preto_318-41856.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconmenos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\funcionario1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s0icon-9b108869337b958c857b09b89cffabf41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icone-Amigo_Homem1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ROPAAA1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wood-263802_960_720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\as.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17445b84-0268-4e61-8087-bd6e2ce4fc95.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_people_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adduser_4961.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adduser_49611.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-basket-add256_24909.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart-add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopping-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico-ecommerce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico-ecommerce %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pres.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Birthday-80_icon-icons.com_57369.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grafico-ascendente-de-um-empresario_318-62626.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-clock-icon_34472.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icovend.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sdadsasdas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shopping-cart-remove-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdbaixa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remove_User-80_icon-icons.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bars-chart-ascending_icon-icons.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-8-Accept.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,517 @@
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\bin\Debug\Lavest.exe
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\bin\Debug\Lavest.pdb
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\bin\Debug\Lavest.exe.config
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+D:\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.exe.config
+D:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+D:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+D:\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.exe
+D:\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.pdb
+D:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+D:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+D:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+D:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+D:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+D:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+D:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+H:\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.exe.config
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+H:\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.exe
+H:\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.pdb
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+G:\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.exe.config
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+G:\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.exe
+G:\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.pdb
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\TCC Atual\Lavest\Lavest\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.frmLocalizarCliente.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.exe.config
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+H:\ \tudo\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.exe
+H:\ \tudo\TCC Atual\Lavest\Lavest\bin\Debug\Lavest.pdb
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+H:\ \tudo\TCC Atual\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+H:\Lavest\Lavest\bin\Debug\Lavest.exe.config
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+H:\Lavest\Lavest\bin\Debug\Lavest.exe
+H:\Lavest\Lavest\bin\Debug\Lavest.pdb
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+E:\Lavest\Lavest\bin\Debug\Lavest.exe.config
+E:\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+E:\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.Relatorioprodfalta.resources
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\bin\Debug\Lavest.exe.config
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\bin\Debug\Lavest.exe
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\bin\Debug\Lavest.pdb
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.Relatorioprodfalta.resources
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\Novo\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+H:\Novo\Lavest\Lavest\bin\Debug\Lavest.exe.config
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+H:\Novo\Lavest\Lavest\bin\Debug\Lavest.exe
+H:\Novo\Lavest\Lavest\bin\Debug\Lavest.pdb
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.Relatorioprodfalta.resources
+H:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+H:\Novo\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+H:\Novo\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+I:\Novo\Lavest\Lavest\bin\Debug\Lavest.exe.config
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+I:\Novo\Lavest\Lavest\bin\Debug\Lavest.exe
+I:\Novo\Lavest\Lavest\bin\Debug\Lavest.pdb
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.Relatorioprodfalta.resources
+I:\Novo\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+I:\Novo\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+I:\Novo\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+H:\Lavest system\Lavest\Lavest\bin\Debug\Lavest.exe.config
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+H:\Lavest system\Lavest\Lavest\bin\Debug\Lavest.exe
+H:\Lavest system\Lavest\Lavest\bin\Debug\Lavest.pdb
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Relatorioprodfalta.resources
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+H:\Lavest system\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+E:\Lavest system\Lavest\Lavest\bin\Debug\Lavest.exe.config
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+E:\Lavest system\Lavest\Lavest\bin\Debug\Lavest.exe
+E:\Lavest system\Lavest\Lavest\bin\Debug\Lavest.pdb
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Relatorioprodfalta.resources
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+E:\Lavest system\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\bin\Debug\Lavest.exe.config
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\bin\Debug\Lavest.exe
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\bin\Debug\Lavest.pdb
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Relatorioprodfalta.resources
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+C:\Users\SAGA\Desktop\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+F:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\bin\Debug\Lavest.exe.config
+F:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+F:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\bin\Debug\Lavest.exe.config
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\bin\Debug\Lavest.exe
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\bin\Debug\Lavest.pdb
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Relatorioprodfalta.resources
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+D:\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.relatoriodecompra.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\bin\Debug\Lavest.exe.config
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\bin\Debug\Lavest.exe
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\bin\Debug\Lavest.pdb
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.relatoriodecompra.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\Lavest.Relatorioprodfalta.resources
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+C:\Users\SAGA\Desktop\Nova pasta\Tcc\31-10-2016\Lavest system\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+D:\Nova pasta\Lavest\Lavest\bin\Debug\Lavest.exe.config
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+D:\Nova pasta\Lavest\Lavest\bin\Debug\Lavest.exe
+D:\Nova pasta\Lavest\Lavest\bin\Debug\Lavest.pdb
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.relatoriodecompra.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.Relatorioprodfalta.resources
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+D:\Nova pasta\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+H:\Nova pasta\Lavest\Lavest\bin\Debug\Lavest.exe.config
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+H:\Nova pasta\Lavest\Lavest\bin\Debug\Lavest.exe
+H:\Nova pasta\Lavest\Lavest\bin\Debug\Lavest.pdb
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.relatoriodecompra.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.Relatorioprodfalta.resources
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+H:\Nova pasta\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+H:\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+H:\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelAniversariantes.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelVendas.resources
+H:\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelLucrosDespesas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\bin\Debug\Lavest.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\bin\Debug\Lavest.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\bin\Debug\Lavest.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelAniversariantes.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelLucrosDespesas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelVendas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelProdutoFalta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelProdutoBaixa.resources
+H:\10.11\Lavest\Lavest\bin\Debug\Lavest.exe.config
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+H:\10.11\Lavest\Lavest\bin\Debug\Lavest.exe
+H:\10.11\Lavest\Lavest\bin\Debug\Lavest.pdb
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmContas.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelAniversariantes.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelLucrosDespesas.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelProdutoBaixa.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelProdutoFalta.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelVendas.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+H:\10.11\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmClienteInad.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmProdutoMaisVend.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelFuncionarioAniver.resources
+H:\10.11\Lavest\Lavest\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\10.11\Lavest\Lavest\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\10.11\Lavest\Lavest\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\15.11\Lavest\Lavest\bin\Debug\Lavest.exe.config
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
+H:\15.11\Lavest\Lavest\bin\Debug\Lavest.exe
+H:\15.11\Lavest\Lavest\bin\Debug\Lavest.pdb
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.csprojResolveAssemblyReference.cache
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmClienteInad.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmProdutoMaisVend.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelAniversariantes.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelFuncionarioAniver.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelLucrosDespesas.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelProdutoBaixa.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelProdutoFalta.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelVendas.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.Cache
+H:\15.11\Lavest\Lavest\obj\x86\Debug\RdlCompile.cache
+H:\15.11\Lavest\Lavest\obj\x86\Debug\RdlCompile.compiled
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmContasPagarCompra.resources
+H:\15.11\Lavest\Lavest\obj\x86\Debug\Lavest.frmQuitarContaReceber.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\bin\Debug\Lavest.exe.config
+C:\Users\Lucas\Desktop\Lavest\Lavest\bin\Debug\Lavest.exe
+C:\Users\Lucas\Desktop\Lavest\Lavest\bin\Debug\Lavest.pdb
+C:\Users\Lucas\Desktop\Lavest\Lavest\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lucas\Desktop\Lavest\Lavest\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfornecedor.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarfuncionario.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarproduto.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.Form1.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadCliente.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFornecedor.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCadFuncionario.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmClienteInad.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmCompra.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.consultarcliente.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmconta.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmContasPagarCompra.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.Frmlogin.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmProduto.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmProdutoMaisVend.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmQuitarContaReceber.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelAniversariantes.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelFuncionarioAniver.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelLucrosDespesas.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelProdutoBaixa.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelProdutoFalta.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmRelVendas.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.frmuser.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.FrmVenda.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.Properties.Resources.resources
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.csproj.CopyComplete
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.exe
+C:\Users\Lucas\Desktop\Lavest\Lavest\obj\x86\Debug\Lavest.pdb
